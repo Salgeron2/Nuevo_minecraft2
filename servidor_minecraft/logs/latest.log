@@ -1,44 +1,78 @@
-[00:04:07] [Server thread/INFO]: Irinasan24 has completed the challenge [The day you were born...]
-[00:06:08] [Server thread/INFO]: salgeron has made the advancement [Free the End]
-[00:06:19] [Server thread/INFO]: Set the exit portal location to: class_2338{x=0, y=62, z=0}
-[00:06:29] [Server thread/INFO]: [Irinasan24: Set own game mode to Survival Mode]
-[00:06:37] [Server thread/INFO]: salgeron has reached the goal [The Next Generation]
-[00:06:44] [Server thread/INFO]: Irinasan24 fell from a high place
-[00:06:45] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:06:54] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:06:54] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:07:02] [Server thread/INFO]: Irinasan24 has made the advancement [Wake Up!]
-[00:07:42] [Server thread/INFO]: salgeron has made the advancement [Remote Getaway]
-[00:07:44] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to -28.500000, 57.500000, -88.500000]
-[00:07:58] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
-[00:08:13] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
-[00:08:27] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 309.500000, 126.500000, -1071.500000]
-[00:09:02] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 371.500000, 62.500000, -1175.500000]
-[00:09:16] [Server thread/INFO]: [salgeron: Set own game mode to Creative Mode]
-[00:10:03] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 426.500000, 62.500000, -1186.500000]
-[00:10:04] [Server thread/INFO]: Irinasan24 has made the advancement [The City at the End of the Game]
-[00:10:41] [Server thread/INFO]: [salgeron: Applied enchantment Unbreaking V to salgeron's item]
-[00:10:51] [Server thread/INFO]: [salgeron: Applied enchantment Sharpness VI to salgeron's item]
-[00:11:02] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 364.500000, 107.500000, -1187.500000]
-[00:13:09] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 449.500000, 140.500000, -1190.500000]
-[00:13:21] [Server thread/INFO]: Irinasan24 fell from a high place
-[00:13:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:13:47] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:13:47] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:14:18] [Server thread/INFO]: [Irinasan24: Set own game mode to Creative Mode]
-[00:19:09] [Server thread/INFO]: [salgeron: Applied enchantment Looting IV to salgeron's item]
-[00:19:26] [Server thread/INFO]: [salgeron: Applied enchantment Mending to salgeron's item]
-[00:19:37] [Server thread/INFO]: [salgeron: Applied enchantment Sweeping Edge V to salgeron's item]
-[00:20:20] [Server thread/INFO]: [salgeron: Gave 1 [Anvil] to salgeron]
-[00:20:44] [Server thread/INFO]: [Irinasan24: Set own game mode to Survival Mode]
-[00:20:51] [Server thread/INFO]: [EMI] salgeron deleted 15 redstone
-[00:22:17] [Server thread/INFO]: [salgeron: Applied enchantment Sweeping Edge V to salgeron's item]
-[00:22:21] [Server thread/INFO]: [salgeron: Applied enchantment Mending to salgeron's item]
-[00:22:27] [Server thread/INFO]: [salgeron: Applied enchantment Looting IV to salgeron's item]
-[00:22:32] [Server thread/INFO]: [salgeron: Applied enchantment Sharpness VI to salgeron's item]
-[00:22:37] [Server thread/INFO]: [salgeron: Applied enchantment Unbreaking V to salgeron's item]
-[00:22:40] [Server thread/INFO]: [Irinasan24: Set own game mode to Creative Mode]
-[00:22:55] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+[00:00:29] [Server thread/INFO]: Irinasan24 fell from a high place
+[00:00:31] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:00:38] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 62.500000, 171.500000, 55.500000]
+[00:01:59] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[00:05:02] [Server thread/INFO]: Irinasan24 has made the advancement [Not Today, Thank You]
+[00:07:04] [Server thread/INFO]: [EMI] salgeron deleted 7 arrow
+[00:07:05] [Server thread/INFO]: [EMI] salgeron deleted 5 spider_eye
+[00:07:07] [Server thread/INFO]: [EMI] salgeron deleted 10 string
+[00:07:52] [Server thread/INFO]: [salgeron: Teleported salgeron to 150.500000, 76.500000, 135.500000]
+[00:08:32] [Server thread/INFO]: [salgeron: Teleported salgeron to 220.500000, 107.500000, 181.500000]
+[00:09:02] [Server thread/INFO]: Irinasan24 fell from a high place
+[00:09:04] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:09:13] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 725.500000, 73.500000, 124.500000]
+[00:09:53] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[00:10:18] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 200.500000, 74.500000, 710.500000]
+[00:10:27] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 208.500000, 64.500000, 711.500000]
+[00:10:40] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:10:46] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:11:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:11:09] [Server thread/INFO]: [salgeron: Teleported salgeron to 1033.500000, 41.500000, 87.500000]
+[00:11:31] [Server thread/INFO]: [salgeron: Teleported salgeron to 1128.500000, 25.500000, 25.500000]
+[00:11:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:11:50] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:11:57] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:12:20] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=856, y=173, z=-108} but found not block entity block Block{minecraft:air} at location
+[00:12:20] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=856, y=173, z=-108}
+[00:12:30] [Server thread/INFO]: [salgeron: Teleported salgeron to 1032.500000, 65.500000, 175.500000]
+[00:12:31] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1063, y=63, z=235} but found not block entity block Block{minecraft:air} at location
+[00:12:31] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=1063, y=63, z=235}
+[00:12:38] [Server thread/INFO]: [salgeron: Teleported salgeron to 1049.500000, 99.500000, 299.500000]
+[00:12:47] [Server thread/INFO]: [salgeron: Teleported salgeron to 1034.500000, 63.500000, 380.500000]
+[00:13:15] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:13:19] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4206ms or 84 ticks behind
+[00:13:27] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1003, y=240, z=-236} but found not block entity block Block{minecraft:air} at location
+[00:13:27] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=1003, y=240, z=-236}
+[00:13:40] [Server thread/INFO]: [salgeron: Teleported salgeron to 1000.500000, 241.500000, -214.500000]
+[00:13:49] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=964, y=240, z=-101} but found not block entity block Block{minecraft:air} at location
+[00:13:49] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=964, y=240, z=-101}
+[00:13:49] [Server thread/INFO]: [salgeron: Teleported salgeron to 965.500000, 264.500000, -149.500000]
+[00:14:12] [Server thread/INFO]: [salgeron: Teleported salgeron to 1031.500000, 272.500000, -25.500000]
+[00:14:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1028, y=288, z=75} but found not block entity block Block{minecraft:air} at location
+[00:14:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=1028, y=288, z=75}
+[00:14:16] [Server thread/WARN]: Tried to load a DUMMY block entity @ class_2338{x=1028, y=192, z=75} but found not block entity block Block{minecraft:air} at location
+[00:14:16] [Server thread/WARN]: Tried to load a block entity for block Block{minecraft:air} but failed at location class_2338{x=1028, y=192, z=75}
+[00:14:24] [Server thread/INFO]: [salgeron: Teleported salgeron to 1030.500000, 305.500000, 70.500000]
+[00:15:18] [Server thread/INFO]: salgeron has made the advancement [A crafter that runs on cells...]
+[00:15:22] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 725.500000, 73.500000, 124.500000]
+[00:15:22] [Server thread/INFO]: salgeron has made the advancement [Finally, a moment of rest...]
+[00:15:22] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:15:24] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2038ms or 40 ticks behind
+[00:15:35] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 116.500000, 63.500000, -167.500000]
+[00:15:37] [Server thread/INFO]: Irinasan24 has made the advancement [Behind bars]
+[00:15:37] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:17:18] [Server thread/INFO]: Irinasan24 has made the advancement [Finally, a moment of rest...]
+[00:17:18] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[00:17:18] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:18:11] [Server thread/INFO]: salgeron was burnt to a crisp whilst fighting Concierge
+[00:18:13] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:18:23] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[00:18:23] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:18:30] [Server thread/INFO]: Irinasan24 has made the advancement [Steam rolled]
+[00:18:30] [Server thread/INFO]: salgeron has made the advancement [Steam rolled]
+[00:19:48] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:19:56] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 116.500000, 63.500000, -167.500000]
+[00:19:59] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:20:03] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:20:24] [Server thread/INFO]: Irinasan24 has made the advancement [Forged in Flames]
+[00:21:30] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
+[00:21:30] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:22:29] [Server thread/INFO]: salgeron has made the advancement [Even the rats avoid this place]
+[00:22:29] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:23:13] [Server thread/INFO]: Irinasan24 has made the advancement [Even the rats avoid this place]
+[00:23:13] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[00:23:13] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:23:37] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -52,7 +86,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -76,13 +110,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:56] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+[00:23:38] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -96,7 +130,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -120,13 +154,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:57] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+[00:23:38] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -140,7 +174,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -164,13 +198,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:57] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
+[00:23:38] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -184,7 +218,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -208,13 +242,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:57] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+[00:23:39] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -228,7 +262,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -252,13 +286,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:58] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
+[00:23:39] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -272,7 +306,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -296,13 +330,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:58] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
+[00:23:39] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -316,7 +350,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -340,13 +374,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:22:59] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
+[00:23:40] [Netty Epoll Server IO #1/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -360,7 +394,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -384,13 +418,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:23:01] [Netty Epoll Server IO #6/ERROR]: Exception occurred in netty pipeline
+[00:23:40] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -404,7 +438,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -428,14 +462,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:23:20] [Server thread/INFO]: [salgeron: Set own game mode to Survival Mode]
-[00:23:21] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+[00:23:41] [Netty Epoll Server IO #3/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -449,7 +482,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -473,13 +506,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:23:22] [Netty Epoll Server IO #0/ERROR]: Exception occurred in netty pipeline
+[00:23:53] [Netty Epoll Server IO #4/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -493,7 +526,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -517,13 +550,13 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:23:24] [Netty Epoll Server IO #2/ERROR]: Exception occurred in netty pipeline
+[00:23:54] [Netty Epoll Server IO #5/ERROR]: Exception occurred in netty pipeline
 io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
@@ -537,7 +570,7 @@ io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: In
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
-	at net.minecraft.network.LegacyQueryHandler.channelRead(LegacyQueryHandler.java:95) ~[server-intermediary.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
 	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
@@ -561,87 +594,71 @@ Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length
 	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
 	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
 	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
-	at net.minecraft.network.NetworkState$PacketHandler.createPacket(NetworkState.java:458) ~[server-intermediary.jar:?]
-	at net.minecraft.network.NetworkState.getPacketHandler(NetworkState.java:522) ~[server-intermediary.jar:?]
-	at net.minecraft.network.DecoderHandler.decode(DecoderHandler.java:32) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
 	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
 	... 29 more
-[00:24:13] [Server thread/INFO]: [Irinasan24: Set own game mode to Survival Mode]
-[00:25:24] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 341.500000, 75.500000, -1319.500000]
-[00:25:31] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
-[00:26:18] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 419.500000, 63.500000, -1404.500000]
-[00:26:58] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 299.500000, 61.500000, -1531.500000]
-[00:27:20] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 125.500000, 59.500000, -1542.500000]
-[00:28:08] [Server thread/INFO]: salgeron has made the advancement [The City at the End of the Game]
-[00:30:30] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 449.500000, 102.500000, -1195.500000]
-[00:30:33] [Server thread/INFO]: [EMI] salgeron deleted 1 lacugrove_trapdoor
-[00:30:35] [Server thread/INFO]: [EMI] salgeron deleted 9 lapis_lazuli
-[00:31:32] [Server thread/INFO]: salgeron hit the ground too hard whilst trying to escape Shulker
-[00:31:35] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
-[00:31:37] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
-[00:31:37] [Netty Epoll Server IO #5/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
-[00:32:28] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
-[00:39:33] [Server thread/INFO]: salgeron has made the advancement [Local Brewery]
-[00:39:35] [Server thread/INFO]: salgeron has reached the goal [Sky's the Limit]
-[00:41:21] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:42:17] [Server thread/INFO]: Irinasan24 has made the advancement [Local Brewery]
-[00:43:50] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
-[00:44:15] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 331.500000, 85.500000, -1169.500000]
-[00:44:15] [Server thread/INFO]: Irinasan24 fell from a high place
-[00:44:17] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:44:27] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 1154.500000, 111.500000, 71.500000]
-[00:44:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:44:37] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:45:36] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 61.500000, 58.500000, -1689.500000]
-[00:46:32] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 47.500000, 58.500000, -1850.500000]
-[00:47:23] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 138.500000, 60.500000, -1930.500000]
-[00:48:37] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 165.500000, 61.500000, -1934.500000]
-[00:48:51] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 172.500000, 168.500000, -2093.500000]
-[00:48:54] [Server thread/INFO]: Irinasan24 fell from a high place
-[00:48:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:49:04] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:49:04] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:49:44] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 103.500000, 115.500000, -2154.500000]
-[00:49:46] [Server thread/INFO]: Irinasan24 fell from a high place
-[00:49:48] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:49:55] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:49:55] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:50:06] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 157.500000, 55.500000, -2211.500000]
-[00:51:51] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 159.500000, 58.500000, -2405.500000]
-[00:52:04] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 103.500000, 61.500000, -2546.500000]
-[00:52:09] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 206.500000, 67.500000, -2639.500000]
-[00:52:18] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 209.500000, 93.500000, -2671.500000]
-[00:52:31] [Server thread/INFO]: [salgeron: Teleported salgeron to Irinasan24]
-[00:54:38] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 218.500000, 65.500000, -2697.500000]
-[00:55:29] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 213.500000, 90.500000, -2687.500000]
-[00:55:40] [Server thread/INFO]: Irinasan24 was doomed to fall by Enderman
-[00:55:41] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:55:49] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
-[00:55:49] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
-[00:56:06] [Server thread/INFO]: salgeron lost connection: Disconnected
-[00:56:06] [Server thread/INFO]: salgeron left the game
-[00:56:06] [Server thread/INFO]: remove player wand
-[00:56:06] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
-[00:56:12] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 188.500000, 42.500000, -2842.500000]
-[00:56:23] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 198.500000, 78.500000, -2943.500000]
-[00:56:34] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 182.500000, 80.500000, -3102.500000]
-[00:56:38] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 342.500000, 70.500000, -3101.500000]
-[00:56:51] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 242.500000, 72.500000, -3260.500000]
-[00:56:59] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 418.500000, 86.500000, -3225.500000]
-[00:57:26] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 540.500000, 60.500000, -3312.500000]
-[00:57:35] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 291.500000, 62.500000, -3409.500000]
-[00:57:40] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 255.500000, 57.500000, -3548.500000]
-[00:57:47] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 196.500000, 58.500000, -3704.500000]
-[00:58:02] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 163.500000, 98.500000, -3865.500000]
-[00:58:11] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 184.500000, 92.500000, -4022.500000]
-[00:59:36] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 241.500000, 58.500000, -4071.500000]
-[00:59:56] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 301.500000, 57.500000, -4198.500000]
-[01:00:06] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 343.500000, 58.500000, -4366.500000]
-[01:00:11] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 343.500000, 71.500000, -4438.500000]
-[01:00:19] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 491.500000, 63.500000, -4494.500000]
-[01:00:27] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to 422.500000, 37.500000, -4633.500000]
-[01:00:40] [Server thread/INFO]: Irinasan24 lost connection: Disconnected
-[01:00:40] [Server thread/INFO]: Irinasan24 left the game
-[01:00:40] [Server thread/INFO]: remove player wand
-[01:00:40] [Server thread/INFO]: Updating all forceload tickets for 5bc2bfbc-6b17-3d30-9640-70539117a0c8
+[00:23:54] [Netty Epoll Server IO #7/ERROR]: Exception occurred in netty pipeline
+io.netty.handler.codec.DecoderException: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:489) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:336) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.fireChannelRead(ByteToMessageDecoder.java:323) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:444) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.channelRead(ByteToMessageDecoder.java:280) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at net.minecraft.class_3238.channelRead(class_3238.java:95) ~[server-intermediary.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.handler.timeout.IdleStateHandler.channelRead(IdleStateHandler.java:286) ~[netty-handler-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.fireChannelRead(AbstractChannelHandlerContext.java:357) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline$HeadContext.channelRead(DefaultChannelPipeline.java:1410) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:379) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.AbstractChannelHandlerContext.invokeChannelRead(AbstractChannelHandlerContext.java:365) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.DefaultChannelPipeline.fireChannelRead(DefaultChannelPipeline.java:919) ~[netty-transport-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.AbstractEpollStreamChannel$EpollStreamUnsafe.epollInReady(AbstractEpollStreamChannel.java:800) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.processReady(EpollEventLoop.java:499) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.channel.epoll.EpollEventLoop.run(EpollEventLoop.java:397) ~[netty-transport-classes-epoll-4.1.82.Final.jar:?]
+	at io.netty.util.concurrent.SingleThreadEventExecutor$4.run(SingleThreadEventExecutor.java:997) ~[netty-common-4.1.82.Final.jar:?]
+	at io.netty.util.internal.ThreadExecutorMap$2.run(ThreadExecutorMap.java:74) ~[netty-common-4.1.82.Final.jar:?]
+	at java.lang.Thread.run(Thread.java:840) ~[?:?]
+Caused by: java.lang.IndexOutOfBoundsException: Index 3 out of bounds for length 1
+	at jdk.internal.util.Preconditions.outOfBounds(Preconditions.java:64) ~[?:?]
+	at jdk.internal.util.Preconditions.outOfBoundsCheckIndex(Preconditions.java:70) ~[?:?]
+	at jdk.internal.util.Preconditions.checkIndex(Preconditions.java:266) ~[?:?]
+	at java.util.Objects.checkIndex(Objects.java:361) ~[?:?]
+	at java.util.ArrayList.get(ArrayList.java:427) ~[?:?]
+	at net.minecraft.class_2539$class_4532.method_22310(class_2539.java:458) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2539.method_10783(class_2539.java:522) ~[server-intermediary.jar:?]
+	at net.minecraft.class_2543.decode(class_2543.java:32) ~[server-intermediary.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.decodeRemovalReentryProtection(ByteToMessageDecoder.java:519) ~[netty-codec-4.1.82.Final.jar:?]
+	at io.netty.handler.codec.ByteToMessageDecoder.callDecode(ByteToMessageDecoder.java:458) ~[netty-codec-4.1.82.Final.jar:?]
+	... 29 more
+[00:26:18] [Server thread/INFO]: [salgeron: Teleported Irinasan24 to salgeron]
+[00:26:50] [Server thread/WARN]: salgeron moved wrongly!
+[00:28:38] [Server thread/INFO]: salgeron has made the advancement [Something in your eye?]
+[00:28:38] [Server thread/INFO]: Irinasan24 has made the advancement [Something in your eye?]
+[00:30:38] [Netty Epoll Server IO #3/INFO]: [do_a_barrel_roll] Client of salgeron accepted server config.
+[00:30:56] [Server thread/INFO]: Irinasan24 has made the advancement [A crafter that runs on cells...]
+[00:31:17] [Server thread/INFO]: [Irinasan24: Teleported Irinasan24 to salgeron]
+[00:31:17] [Netty Epoll Server IO #4/INFO]: [do_a_barrel_roll] Client of Irinasan24 accepted server config.
+[00:33:04] [Server thread/INFO]: salgeron lost connection: Disconnected
+[00:33:04] [Server thread/INFO]: salgeron left the game
+[00:33:04] [Server thread/INFO]: remove player wand
+[00:33:04] [Server thread/INFO]: Updating all forceload tickets for 663f09f8-c41e-3225-bf34-9f23beefdec5
+[00:33:38] [Server thread/INFO]: Irinasan24 lost connection: Disconnected
+[00:33:38] [Server thread/INFO]: Irinasan24 left the game
+[00:33:38] [Server thread/INFO]: remove player wand
+[00:33:38] [Server thread/INFO]: Updating all forceload tickets for 5bc2bfbc-6b17-3d30-9640-70539117a0c8
+[00:33:49] [Server thread/INFO]: Unknown or incomplete command, see below for error
+[00:33:49] [Server thread/INFO]: exit<--[HERE]
